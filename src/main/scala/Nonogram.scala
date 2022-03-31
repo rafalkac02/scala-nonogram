@@ -1,5 +1,3 @@
-import Nonogram.nonogram
-
 object Nonogram extends App {
 
   val nonogram = List(
